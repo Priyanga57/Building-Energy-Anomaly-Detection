@@ -1,0 +1,7 @@
+# Ignore large model files
+models/lof_model.pkl
+models/scaler.pkl
+
+# Ignore full dataset
+results/anomaly_labeled_data.csv
+data/
